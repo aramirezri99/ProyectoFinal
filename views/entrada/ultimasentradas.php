@@ -1,4 +1,3 @@
-
   <h1>Ultimas entradas</h1>
 	<?php while($contenido = $entradas->fetch_object()):?>
     <article class="entrada">

@@ -13,7 +13,7 @@
       
 			<div id="logo">
 				<a href="<?=base_url?>">
-					Blog de Videojuegos
+					Blog de Anuncios
 				</a>
 			</div>
 			

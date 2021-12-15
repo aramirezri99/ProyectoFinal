@@ -9,6 +9,7 @@ class categoriaController{
     
     $categ = new categoria();  
     $categorias = $categ->conseguirCategoria();
+    
     require_once 'views/layout/header.php';
   } 
 
